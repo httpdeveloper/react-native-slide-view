@@ -1,0 +1,21 @@
+{
+  "name": "react-native-slide-view",
+  "version": "0.0.1",
+  "description": "A simple, facebook like slide view for React Native",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": ["react-native", "react-native-slide-view", "react", "slide", "slide-view", "facebook-like-slide-view"],
+  "author": {
+    "name": "Dinesh Maharjan",
+    "email": "httpdeveloper@gmail.com",
+    "url": "https://github.com/httpdeveloper"
+  },
+  "bugs": {
+    "url": "https://github.com/httpdeveloper/react-native-slide-view/issues"
+  },
+  "homepage": "https://github.com/httpdeveloper/react-native-slide-view",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/httpdeveloper/react-native-slide-view"
+  }
+}

@@ -7,3 +7,6 @@
 
 # node.js
 npm-debug.log
+
+#Visual Studio
+.history
